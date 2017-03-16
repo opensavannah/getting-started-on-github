@@ -19,9 +19,12 @@ Because of this, it will be helpful for everyone to understand the basics of Git
 
 So, close your open browser tabs except for this one and prepare to follow along.
 
-## 1. Step 0: Create a GitHub account 
+## Step 0: Create a GitHub account 
 
 The first thing you'll want to do is create a free GitHub account.
 
-Once you've done that, create a GitHub account here.  (Accounts are free for public repositories, but there's a charge for private repositories.)
+Once you've done that, create a GitHub account [here](http://github.com).  (Accounts are free for public repositories, but there's a charge for private repositories.)
+
+## Step 1: Use your GitHub account to sign into the Open Savannah homepage
+Click 'Login' in the top right corner of page, then select `Sign in with GitHub`.
 
